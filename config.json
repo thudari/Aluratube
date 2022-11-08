@@ -1,0 +1,157 @@
+{
+    "name": "Thaís H. Abib",
+    "job": "Tech enthusiast & TS fan",
+    "github": "thudari",
+    "bannerImgSrc": "https://images.pexels.com/photos/3785935/pexels-photo-3785935.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "favorites": [
+      {
+        "id": "1",
+        "github": "brunodorea",
+        "vercelLink": "https://alura-imersao-react-cnkavgqgd-bh-tec.vercel.app/"
+      },
+      {
+        "id": "2",
+        "github": "sennshi",
+        "vercelLink": "https://github.com/sennshi/aluratube"
+      },
+      {
+        "id": "3",
+        "github": "FabianoRaiser",
+        "vercelLink": "https://imersao-alura-react5.vercel.app/"
+      },
+      {
+        "id": "4",
+        "github": "sucodelarangela",
+        "vercelLink": "https://aluratube-next-js.vercel.app/"
+      }
+    ],
+    "playlists": {
+      "Taylor Swift": [
+        {
+          "title": "Taylor Swift - Anti-Hero (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=b1kbLwvqugk&ab_channel=TaylorSwiftVEVO",
+          "thumb": "https://img.youtube.com/vi/b1kbLwvqugk/maxresdefault.jpg"
+        },
+        {
+          "title": "Taylor Swift - Bejeweled (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=b7QlX3yR2xs&ab_channel=TaylorSwiftVEVO",
+          "thumb": "https://img.youtube.com/vi/b7QlX3yR2xs/maxresdefault.jpg"
+        },
+        {
+          "title": "Taylor Swift - Lavender Haze (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=mkR_Qwix4Ho&list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp&index=3&ab_channel=TaylorSwiftVEVO",
+          "thumb": "https://img.youtube.com/vi/mkR_Qwix4Ho/maxresdefault.jpg"
+        },
+        {
+          "title": "Taylor Swift - Maroon (Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=lvHZjvIyqsk&list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp&index=4&ab_channel=TaylorSwiftVEVO",
+          "thumb": "https://img.youtube.com/vi/lvHZjvIyqsk/maxresdefault.jpg"
+        },
+        {
+          "title": "Taylor Swift ft. Lana del Rey - Snow On The Beach (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=ycE7bUq3-2k&list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp&index=6&ab_channel=TaylorSwiftVEVO",
+          "thumb": "https://img.youtube.com/vi/ycE7bUq3-2k/maxresdefault.jpg"
+        },
+        {
+          "title": "Taylor Swift - You're On Your Own, Kid (Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=7Gbg6Z70J7E&list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp&index=7&ab_channel=TaylorSwiftVEVO",
+          "thumb": "https://img.youtube.com/vi/7Gbg6Z70J7E/maxresdefault.jpg"
+        },
+        {
+          "title": "Taylor Swift - Midnight Rain (Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=Odh9ddPUkEY&list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp&index=8&ab_channel=TaylorSwiftVEVO",
+          "thumb": "https://img.youtube.com/vi/Odh9ddPUkEY/maxresdefault.jpg"
+        },
+        {
+          "title": "Taylor Swift - Vigilante Shit (Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=Uoey4W_3bos&list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp&index=10&ab_channel=TaylorSwiftVEVO",
+          "thumb": "https://img.youtube.com/vi/Uoey4W_3bos/maxresdefault.jpg"
+        }
+      ],
+      "front-end": [
+        {
+          "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+          "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+          "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+        },
+        {
+          "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+          "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+          "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+        },
+        {
+          "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
+          "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+          "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+        },
+        {
+          "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+          "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+          "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+        },
+        {
+          "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+          "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+        },
+        {
+          "title": "Como Foi Programado um App Que Faz Mágica",
+          "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+          "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+        },
+        {
+          "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+          "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+          "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+        },
+        {
+          "title": "5 Erros Históricos do CSS",
+          "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+          "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+        },
+        {
+          "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+          "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+          "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+        }
+      ],
+      "back-end": [
+        {
+          "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+          "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+          "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+        },
+        {
+          "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+          "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+          "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+        },
+  
+        {
+          "title": "O que é o Java? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+          "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+        },
+        {
+          "title": "O que é Machine Learning? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+          "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+        },
+        {
+          "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+          "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+        },
+        {
+          "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+          "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+        },
+        {
+          "title": "O que é o C#? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+          "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+        }
+      ]
+    }
+  }

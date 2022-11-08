@@ -1,0 +1,65 @@
+Projeto Front-End
+Aplicação baseada no YouTube - Criação do AluraTube
+
+-Usar um figma (aplicativo adobe para design do produto) como modelo
+https://www.figma.com/file/1acrju7CLwHkSh6e7xEk9h/Aluratube?node-id=5%3A16
+
+Preparar o ambiente com o framework React:
+a) node -v no cmd pra saber se tenho nodejs=> se não tiver, instale a versão LTS (longo prazo).
+
+b) instalar o Visual Studio Code para edição
+
+c) usar framework next.js em cima da biblioteca React
+
+ 
+1)Instalar 3 libs básicas para construir o projeto: next, react, react-dom no dir AluraTubeReact
+npm install next react react-dom (terminal VCS)
+
+O arquivo package.json vai listar as libs instaladas e os scripts. Retirar o ^ das libs (garante usar aquela versão em específico).
+https://nextjs.org/docs
+
+npm run dev (vai indicar url)
+
+2)Criar pasta page com componente react que vai ser a home no file index.js
+atalho ctrl C vai parar o processo. Para rodar de novo: no cmd usar npm run dev
+Toda vez que a gente salva, ele compila de novo e já atualiza sozinho.
+atalho ctrl D vai selecionar próximo termo comum pra edição simultânea.
+
+3)Componentes são escritas como function e depois tags.
+
+4)Criar config.json para configurar as variáveis globais do projeto AluraTube.
+./ é a pasta onde estou
+se subir um nível é ../
+
+Pra concatenar usar o template literal  ` ` (crases) e chamar variável ou string ${} (interpolar na computação ou ostentação bigodinhos kkk)
+
+5)Parte de estilos
+Parar o projeto e fazer no cdm um npm install styled-components
+https://github.com/vercel/next.js/tree/canary/examples
+https://github.com/vercel/next.js/tree/canary/examples/with-styled-components
+
+Ver video sobre estrutura de dados em JS.
+Qual a diferença entre statement e retorno por expressão?
+.map converte algo em outro algo. Ex. da lista de nomes (ojetos) para lista de componenentes React
+Ctrl shift P format document => arruma identação
+
+GitHub no cmd do VSC:
+git init
+npx gitignore node
+git status
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:thudari/aluratube.git
+git push -u origin main
+
+Subir projeto com Vercel => add new project from github e deploy
+
+Desafio: importar o banner com site unsplash ou pexel
+Copiar endereço da imagem com botão direito
+https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg
+
+Conceitos SPA: Single Page Application (parece aplicação de celular/desktop)
+React funciona como fotografia e para renderizar funciona no modo top-down.
+. algo sai um array no JS
+Instalar extension quokka js no VSC
+Evite acumular logs em seu código (pode comentar console.log)
