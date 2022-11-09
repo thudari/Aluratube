@@ -1,25 +1,23 @@
 import React from "react";
 import config from "../config.json";
 import styled from "styled-components";
-import { CSSReset } from "../src/components/CSSReset";
 import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
 import Banner from "../src/components/Banner";
 import FavoriteList from "../src/components/FavoriteList";
+
 
 const HomePage = () => {
     const estilosDaHomePage = {
         display: "flex",
         flexDirection: "column",
         flex: 1,
-        // backgroundColor: "red",
     };
 
     const [valorDoFiltro, setValorDoFiltro] = React.useState("");
 
     return (
         <>
-            <CSSReset />
             <div style={estilosDaHomePage}>
                 {/* Prop Drilling */}
                 <Menu valorDoFiltro={valorDoFiltro} setValorDoFiltro={setValorDoFiltro} />
@@ -35,6 +33,8 @@ const HomePage = () => {
 export default HomePage;
 
 const StyledHeader = styled.div`
+  background-color: ${({ theme }) => theme.backgroundLevel1};
+
   img {
     width: 80px;
     height: 80px;

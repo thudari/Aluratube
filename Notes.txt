@@ -63,3 +63,14 @@ React funciona como fotografia e para renderizar funciona no modo top-down.
 . algo sai um array no JS
 Instalar extension quokka js no VSC
 Evite acumular logs em seu código (pode comentar console.log)
+
+Sistema de design:
+https://github.com/alexpate/awesome-design-systems
+
+Tudo que temos está no arquivo index.js, até mesmo a definição de estilo global (CSSReset)
+
+https://nextjs.org/docs/advanced-features/custom-app
+Criar _app.js é um arquivo de config do next => vamos passar o CSSReset para _app.js
+Darkmode vai ser pra todas as pgs
+Mecanismo de provider do React => melhor criar um colorModeProvider para cada coisa em separado
+use indica hook
